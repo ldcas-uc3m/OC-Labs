@@ -1,4 +1,4 @@
-# Práctica 1: WinMips64
+# Lab 1: WinMips64
 By Luis Daniel Casais Mezquida   
 Computer Organization 22/22  
 Bachelor's Degree in Computer Science and Engineering, grp. 89  
@@ -21,3 +21,7 @@ Configura la arquitectura para que las multiplicaciones en FP tengan una latenci
 3. ¿Existen riesgos RAW?
 4. ¿Existen riesgos WAW? Modifica el programa para exhibir uno.
 5. ¿Existen riesgos WAR? Modifica el programa para exhibir uno.
+
+
+## Instalación y ejecución
+Descarga [WinMIPS64](https://github.com/AndoniZubimendi/WinMIPS64), abre el archivo `.s` deseado, configura la arquitectura especificada, y ejecútalo.
